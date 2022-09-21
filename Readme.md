@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Константин Захарутин](https://up.htmlacademy.ru/htmlcss/35/user/2033765).
-* Наставник: `Александр Панасюк`.
+* Наставник: `Александр Панасюк   https://htmlacademy.ru/profile/sasha_oldsport
 
 ---
 
